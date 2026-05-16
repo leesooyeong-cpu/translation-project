@@ -1,0 +1,2 @@
+GitHub Actions 자동화 시스템 최종 테스트 완료.
+조쉬님, 이 파일이 push되면 Gmail로 [GitHub 자동화 보고서] 알림이 발송됩니다.

@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$changes = git -C 'C:/hex_edit_project' status --porcelain 2>$null; if ($changes) { $ts = Get-Date -Format 'yyyy-MM-dd HH:mm'; git -C 'C:/hex_edit_project' add -A; git -C 'C:/hex_edit_project' commit -m \"Auto: translation update $ts\"; git -C 'C:/hex_edit_project' push }",
+            "shell": "powershell",
+            "timeout": 60,
+            "statusMessage": "번역 결과 GitHub에 자동 저장 중..."
+          }
+        ]
+      }
+    ]
+  }
+}

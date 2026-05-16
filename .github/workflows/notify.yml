@@ -16,16 +16,23 @@ jobs:
           secure: true
           username: ${{ secrets.GMAIL_USERNAME }}
           password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          subject: "[translation-project] Push 알림 - ${{ github.ref_name }} 브랜치"
+          subject: "[GitHub 자동화 보고서] ${{ github.repository }} - ${{ github.ref_name }} 브랜치 업데이트"
           to: leesooyeong@gmail.com
           from: ${{ secrets.GMAIL_USERNAME }}
           body: |
-            조쉬님, push가 감지되었습니다!
+            안녕하세요, 조쉬님!
 
-            - 저장소: ${{ github.repository }}
-            - 브랜치: ${{ github.ref_name }}
-            - 커밋: ${{ github.event.head_commit.message }}
-            - 작성자: ${{ github.event.head_commit.author.name }}
-            - 시각: ${{ github.event.head_commit.timestamp }}
+            마스터 브랜치에 새로운 작업이 완료되었습니다.
 
+            ━━━━━━━━━━━━━━━━━━━━━━
+            📁 저장소  : ${{ github.repository }}
+            🌿 브랜치  : ${{ github.ref_name }}
+            💬 커밋 내용 : ${{ github.event.head_commit.message }}
+            👤 작성자  : ${{ github.event.head_commit.author.name }}
+            🕐 시각    : ${{ github.event.head_commit.timestamp }}
+            ━━━━━━━━━━━━━━━━━━━━━━
+
+            🔗 저장소 바로가기:
             https://github.com/${{ github.repository }}
+
+            자동화 시스템이 정상 가동 중입니다.

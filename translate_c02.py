@@ -69,7 +69,7 @@ def translate_pptx(input_path, output_path):
     prs.save(output_path)
 
 def main():
-    src_dir = Path(r"C:\hex_edit_project\VN_original\026_Tiêu chuẩn_Công đoạn_Dây Sheild")
+    src_dir = Path(r"C:\hex_edit_project\VN_original\027_Tiêu chuẩn_Công đoạn_Tuốt vỏ cuối")
     out_dir = Path(r"C:\hex_edit_project\KO_result")
     out_dir.mkdir(exist_ok=True)
 

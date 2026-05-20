@@ -107,6 +107,26 @@ FILENAME_MAP = {
         "TSCS-G027-0001_A1_20240610_최종 피복 탈피_일일 검사표 (생산) (현장).pptx",
     "TSCS-G027-0003_A2_20250408_Bảng kiểm tra hàng ngày( ABAG + Rework).pptx":
         "TSCS-G027-0003_A2_20250408_일일 검사표 (ABAG + 재작업).pptx",
+    "TSCS-G027-0005_A0_20260505_Bảng Kiểm Tra Hàng Ngày.pptx":
+        "TSCS-G027-0005_A0_20260505_일일 검사표.pptx",
+    "TSCS-G027-0006_A0_20260505_Phiếu Kiểm Tra Định Kỳ (Bảo Trì).pptx":
+        "TSCS-G027-0006_A0_20260505_정기 검사표 (보전).pptx",
+    "TSIS-G027-0004_A0_20260505_Tiêu Chuẩn Bảo Vệ Đầu Terminal .pptx":
+        "TSIS-G027-0004_A0_20260505_단자 헤드 보호 표준.pptx",
+    "TSMS-G027-0005_A0_20260505_Tiêu Chuẩn Nhận Dạng Phiếu Sản Xuất.pptx":
+        "TSMS-G027-0005_A0_20260505_생산표 식별 표준.pptx",
+    "TSNC-G027-0004_A0_20260505_Quy Trình Xử Lý Hàng Không Phù Hợp Công Đoạn Tuốt Vỏ Cuối.pptx":
+        "TSNC-G027-0004_A0_20260505_최종 피복 탈피 부적합품 처리 절차.pptx",
+    "TSPO_G027_0004_A0_20260505_Quy Trình Làm Việc Máy Tuốt Vỏ Cuối.pptx":
+        "TSPO_G027_0004_A0_20260505_최종 피복 탈피기 작업 공정.pptx",
+    "TSWS-G027-0006_A0_20260505_Tiêu Chuẩn Tuốt Vỏ Cuối.pptx":
+        "TSWS-G027-0006_A0_20260505_최종 피복 탈피 표준.pptx",
+    "TSWS-G027-0007_A0_20260505_Tiêu Chuẩn 3C5S.pptx":
+        "TSWS-G027-0007_A0_20260505_3C5S 표준.pptx",
+    "TSWS-G027-0008_A0_20260505_Tiêu Chuẩn Sử Dụng Thẻ Mục Lỗi.pptx":
+        "TSWS-G027-0008_A0_20260505_불량 항목 카드 사용 표준.pptx",
+    "TSWS-G027-0009_A0_20260505_Tiêu Chuẩn Khắc Phục Khi Máy Xảy Ra Vấn Đề.pptx":
+        "TSWS-G027-0009_A0_20260505_설비 문제 발생 시 복구 표준.pptx",
     # ── 045 전선 꼬임 ──
     "TC máy xoắn dây.pptx":
         "TC_전선 꼬임 기계.pptx",

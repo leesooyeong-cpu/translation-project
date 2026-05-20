@@ -76,6 +76,32 @@ FILENAME_MAP = {
         "TSCS-G026-0002_3D5S 검사표_차폐선_a0_ko.pptx",
     "TSCS-G026-0003_A1_20250218_DÂY SHIELD_Danh sách kiểm tra hàng ngày ( sản xuất ).pptx":
         "TSCS-G026-0003_A1_20250218_차폐선_일일 검사표 (생산)_ko.pptx",
+    "TSCS-G026-0004_A0_20260505_Bảng Kiểm Tra Hằng Ngày (Sản Xuất).pptx":
+        "TSCS-G026-0004_A0_20260505_일일 검사표 (생산)_ko.pptx",
+    "TSCS-G026-0005_A0_20260505_Phiếu Kiểm Tra Định Kỳ (Bảo Trì).pptx":
+        "TSCS-G026-0005_A0_20260505_정기 검사표 (보전)_ko.pptx",
+    "TSIS-G026-0003_A0_20260505_Tiêu Chuẩn Bảo Vệ Đầu Terminal .pptx":
+        "TSIS-G026-0003_A0_20260505_단자 헤드 보호 표준_ko.pptx",
+    "TSMS-G026-0001_A0_20260505_Tiêu Chuẩn Nhận Dạng Phiếu Sản Xuất.pptx":
+        "TSMS-G026-0001_A0_20260505_생산표 식별 표준_ko.pptx",
+    "TSMS-G026-0002_A0_20260505_Tiêu Chuẩn Nhận Dạng Vật Tư.pptx":
+        "TSMS-G026-0002_A0_20260505_자재 식별 표준_ko.pptx",
+    "TSMS-G026-0003_A0_20260505_Tiêu Chuẩn Treo Linh Kiện Cắt – Dập.pptx":
+        "TSMS-G026-0003_A0_20260505_절단 압착 부품 걸이 표준_ko.pptx",
+    "TSNC-G026-0001_A0_20260505_Quy Trình Xử Lý Sản Phẩm Không Phù Hợp.pptx":
+        "TSNC-G026-0001_A0_20260505_부적합 제품 처리 절차_ko.pptx",
+    "TSPO-G026-0002_A0_20260505_Quy trình làm việc cắt dây sheild.pptx":
+        "TSPO-G026-0002_A0_20260505_차폐선 절단 작업 공정_ko.pptx",
+    "TSWS-G026-00010_A0_20260505_Tiêu Chuẩn Khắc Phục Khi Máy Xảy Ra Vấn Đề.pptx":
+        "TSWS-G026-00010_A0_20260505_설비 문제 발생 시 복구 표준_ko.pptx",
+    "TSWS-G026-00011_A0_20260505_Tiêu Chuẩn Vệ Sinh (3C5S).pptx":
+        "TSWS-G026-00011_A0_20260505_위생 표준 (3C5S)_ko.pptx",
+    "TSWS-G026-0007_A0_20260505_Tiêu Chuẩn Sử Dụng Máy Cắt Dây Shield.pptx":
+        "TSWS-G026-0007_A0_20260505_차폐선 절단기 사용 표준_ko.pptx",
+    "TSWS-G026-0008_A0_20260505_Tiêu Chuẩn Cắt Dây Shield.pptx":
+        "TSWS-G026-0008_A0_20260505_차폐선 절단 표준_ko.pptx",
+    "TSWS-G026-0009_A0_20260505_Tiêu Chuẩn Sử Dụng Phiếu Thông Tin Linh Kiện Lỗi.pptx":
+        "TSWS-G026-0009_A0_20260505_불량 부품 정보표 사용 표준_ko.pptx",
     # ── 027 최종 피복 탈피 ──
     "TSCS-G027-0001_A1_20240610_TUỐT VỎ CUỐI_Bảng kiểm tra hàng ngày  (sản xuất )(Xưởng ).pptx":
         "TSCS-G027-0001_A1_20240610_최종 피복 탈피_일일 검사표 (생산) (현장)_ko.pptx",

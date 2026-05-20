@@ -319,6 +319,9 @@ FILENAME_MAP = {
     # ── 100 집합 공정 ──
     "TSWS-G100-0002_Tiêu chuẩn treo mạch xe tập kết DN8aPE.pptx":
         "TSWS-G100-0002_집합 대차 배선 걸이 표준_DN8aPE.pptx",
+    # ── 기타 ──
+    "스퀴브 커넥터 공정 표준 Quy trình nhập hàng và xuất hàng C&C.pptx":
+        "스퀴브 커넥터 공정 표준_C&C 입출고 작업 공정.pptx",
 }
 
 
